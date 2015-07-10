@@ -1,0 +1,12 @@
+{
+  "name": "include components you want to used in project",
+  "dependencies": [
+    "clickAnyWhereButHere",
+    "selectbox",
+    "substr"
+  ],
+  "components": [
+    "citySelect",
+    "utils"
+  ] 
+}

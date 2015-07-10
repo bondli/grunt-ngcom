@@ -1,0 +1,47 @@
+{
+  "name": "grunt-ngcom",
+  "description": "The best Grunt plugin ever.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/bondli/grunt-ngcom",
+  "author": {
+    "name": "bondli",
+    "email": "250934756@qq.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bondli/grunt-ngcom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bondli/grunt-ngcom/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/bondli/grunt-ngcom/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-concurrent": "^0.5.0",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-compass": "^0.7.2",
+    "grunt-contrib-concat": "~0.4.0",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-csslint": "~0.2.0",
+    "grunt-contrib-cssmin": "~0.10.0",
+    "load-grunt-tasks": "~0.6.0",
+    "time-grunt": "~0.3.2"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "angular component concat tools"
+  ]
+}
